@@ -1,3 +1,3 @@
 # goex
 
-goex.site
+https://goex.site/
